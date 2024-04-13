@@ -1,0 +1,14 @@
+C:\Users\Flex\Desktop\Desafios 2- progra 2\desafio 1.1\desafio 1.1\bin\Debug\net8.0\desafio 1.1.exe
+C:\Users\Flex\Desktop\Desafios 2- progra 2\desafio 1.1\desafio 1.1\bin\Debug\net8.0\desafio 1.1.deps.json
+C:\Users\Flex\Desktop\Desafios 2- progra 2\desafio 1.1\desafio 1.1\bin\Debug\net8.0\desafio 1.1.runtimeconfig.json
+C:\Users\Flex\Desktop\Desafios 2- progra 2\desafio 1.1\desafio 1.1\bin\Debug\net8.0\desafio 1.1.dll
+C:\Users\Flex\Desktop\Desafios 2- progra 2\desafio 1.1\desafio 1.1\bin\Debug\net8.0\desafio 1.1.pdb
+C:\Users\Flex\Desktop\Desafios 2- progra 2\desafio 1.1\desafio 1.1\obj\Debug\net8.0\desafio 1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flex\Desktop\Desafios 2- progra 2\desafio 1.1\desafio 1.1\obj\Debug\net8.0\desafio 1.1.AssemblyInfoInputs.cache
+C:\Users\Flex\Desktop\Desafios 2- progra 2\desafio 1.1\desafio 1.1\obj\Debug\net8.0\desafio 1.1.AssemblyInfo.cs
+C:\Users\Flex\Desktop\Desafios 2- progra 2\desafio 1.1\desafio 1.1\obj\Debug\net8.0\desafio 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Flex\Desktop\Desafios 2- progra 2\desafio 1.1\desafio 1.1\obj\Debug\net8.0\desafio 1.1.dll
+C:\Users\Flex\Desktop\Desafios 2- progra 2\desafio 1.1\desafio 1.1\obj\Debug\net8.0\refint\desafio 1.1.dll
+C:\Users\Flex\Desktop\Desafios 2- progra 2\desafio 1.1\desafio 1.1\obj\Debug\net8.0\desafio 1.1.pdb
+C:\Users\Flex\Desktop\Desafios 2- progra 2\desafio 1.1\desafio 1.1\obj\Debug\net8.0\desafio 1.1.genruntimeconfig.cache
+C:\Users\Flex\Desktop\Desafios 2- progra 2\desafio 1.1\desafio 1.1\obj\Debug\net8.0\ref\desafio 1.1.dll
